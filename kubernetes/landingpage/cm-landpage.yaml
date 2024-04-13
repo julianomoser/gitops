@@ -1,7 +1,8 @@
 apiVersion: v1
 data:
   index.html: |-
-    <h1 id="simple-go-crud-app-with-postgresql-database">Simple Go CRUD App with PostgreSQL Database</h1>
+    <h1 id="simple-go-crud-app-with-postgresql-database">Juliano Moser de Jesus</h1>
+    <h2 id="simple-go-crud-app-with-postgresql-database">Trabalho final</h1>
     <h2 id="types">Types</h2>
     <table>
     <thead>
